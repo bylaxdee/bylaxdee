@@ -1,26 +1,38 @@
+![LaxDee — Engineering leadership · Product development · AI](assets/terminal-banner.svg)
+
 # Deepak · LaxDee
 
-I'm an engineering leader with 20 years of industry experience and a master's degree. My current focus is AI-assisted product development: shaping requirements, working with coding agents and reviewing what gets built.
+**20 years in industry. Building my own ventures.**
 
-I spent nine years working on [ProcurementExpress](https://procurementexpress.com) before moving on to build my own ventures.
+I'm an engineering leader focused on AI-assisted product development—from shaping requirements and working with coding agents to reviewing what gets built.
 
-## Current ventures
+## Building now
 
-| Venture | Focus |
-| --- | --- |
-| [PrintMe3D](https://printme3d.in) | 3D-printed products and custom production |
-| [SomRatri](https://somratri.com) | Curated overnight gatherings |
+| Venture | What it's about |
+| :--- | :--- |
+| **[PrintMe3D ↗](https://printme3d.in)** | 3D-printed products and custom production |
+| **[SomRatri ↗](https://somratri.com)** | Curated overnight gatherings |
 
-These are commercial ventures with private codebases.
+*Both are commercial ventures with private codebases.*
 
-## Areas I work on
+## Engineering focus
 
-- **AI-assisted development** — requirements, coding-agent workflows and review.
-- **Product engineering** — Rails applications, commerce and booking systems.
-- **Tools and operations** — reusable agent skills, integrations and self-hosted infrastructure.
+~~~yaml
+product: Rails applications · Commerce · Booking systems
+ai: Coding-agent workflows · Reusable agent skills
+operations: Integrations · Self-hosted infrastructure
+~~~
 
-## Open-source plans
+## The journey
 
-I plan to share useful tools and projects with the community. I'll add them here as they become available.
+Before starting my own ventures, I spent **nine years working on [ProcurementExpress](https://procurementexpress.com)**.
 
-[More about me → laxdee.com](https://laxdee.com)
+My background includes **20 years of industry experience** and a **master's degree**. Today, my focus brings together engineering leadership, product development and practical applications of AI.
+
+## Next: sharing more
+
+I plan to share useful tools and projects with the community. I'll feature them here as they become available.
+
+---
+
+**[Explore laxdee.com →](https://laxdee.com)** · **[PrintMe3D](https://printme3d.in)** · **[SomRatri](https://somratri.com)**
