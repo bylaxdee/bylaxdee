@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">LaxDee terminal banner</title>
+  <desc id="desc">Engineering leadership, product development and AI.</desc>
+  <rect x="1" y="1" width="1198" height="208" rx="14" fill="#171c1f" stroke="#30383c" stroke-width="2"/>
+  <circle cx="32" cy="28" r="8" fill="#ff6058"/>
+  <circle cx="58" cy="28" r="8" fill="#ffbd2e"/>
+  <circle cx="84" cy="28" r="8" fill="#28c840"/>
+  <text x="36" y="120" fill="#79d9b0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="60" font-weight="600">&gt; laxdee</text>
+  <text x="38" y="171" fill="#91d9bd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="25">Engineering leadership · Product development · AI</text>
+</svg>
