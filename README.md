@@ -1,4 +1,4 @@
-![Deepak · LaxDee — engineering leader, building PrintMe3D and SomRatri; open to conversations about product ideas and engineering challenges](assets/terminal-banner.svg?v=2)
+![Deepak · LaxDee — engineering leader, building PrintMe3D and SomRatri; open to conversations about product ideas and engineering challenges](https://github.com/bylaxdee/bylaxdee/raw/8bdf37fe2d407d10c7ace75ada5d52d312ac7d46/assets/terminal-banner.svg)
 
 **[Explore PrintMe3D ↗](https://printme3d.in)** · **[Discover SomRatri ↗](https://somratri.com)** · **[Say hello ↗](https://laxdee.com)**
 
