@@ -1,6 +1,6 @@
-![Deepak · LaxDee — engineering leader, building PrintMe3D and SomRatri; open to conversations about product ideas and engineering challenges](https://github.com/bylaxdee/bylaxdee/raw/8bdf37fe2d407d10c7ace75ada5d52d312ac7d46/assets/terminal-banner.svg)
+![Deepak · LaxDee — engineering leader, PrintMe3D, SomRatri and NavMantra; open to conversations about product ideas and engineering challenges](https://github.com/bylaxdee/bylaxdee/raw/c4712d643a19e1f6451f933bdb4b98a8b1974111/assets/terminal-banner.svg)
 
-**[Explore PrintMe3D ↗](https://printme3d.in)** · **[Discover SomRatri ↗](https://somratri.com)** · **[Say hello ↗](https://laxdee.com)**
+**[Explore PrintMe3D ↗](https://printme3d.in)** · **[Discover SomRatri ↗](https://somratri.com)** · **[Visit NavMantra ↗](https://navmantra.com)** · **[Contact me ↗](https://navmantra.com)**
 
 ## Building products. Welcoming good conversations.
 
@@ -15,6 +15,10 @@ I'm **Deepak · LaxDee**, an engineering leader with **20 years of industry expe
 
 Both are commercial ventures with private codebases. Feedback, questions and thoughtful collaboration ideas are welcome.
 
+### NavMantra
+
+**[Explore NavMantra →](https://navmantra.com)**
+
 ### Have a project challenge? Let's talk.
 
 A product idea to explore, a workflow that needs simplifying, or an engineering problem you're working through? **I'd be happy to start a conversation.**
@@ -25,7 +29,7 @@ A product idea to explore, a workflow that needs simplifying, or an engineering 
 
 You don't need a polished brief. **Tell me what you're building, what's getting in the way, and what you'd like to achieve.**
 
-**[Connect with me → laxdee.com](https://laxdee.com)**
+**[Contact me through NavMantra →](https://navmantra.com)** · **[More about me →](https://laxdee.com)**
 
 ### A little background
 
