@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="730" viewBox="0 0 1000 730" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="825" viewBox="0 0 1000 825" role="img" aria-labelledby="title desc">
 <title id="title">Deepak · LaxDee — building products, exploring challenges</title>
-<desc id="desc">Engineering leader with 20 years in industry. Building PrintMe3D and SomRatri. Focused on Rails, AI-assisted development, agent workflows and integrations. Have a product idea or engineering challenge? Let's talk.</desc>
-<rect x="1" y="1" width="998" height="728" rx="18" fill="#141b23" stroke="#334155" stroke-width="2"/>
+<desc id="desc">Engineering leader with 20 years in industry. Building PrintMe3D and SomRatri. Visit NavMantra and contact me at navmantra.com. Focused on Rails, AI-assisted development, agent workflows and integrations. Have a product idea or engineering challenge? Let's talk.</desc>
+<rect x="1" y="1" width="998" height="823" rx="18" fill="#141b23" stroke="#334155" stroke-width="2"/>
 <path d="M19 1H981Q999 1 999 19V61H1V19Q1 1 19 1" fill="#1e2936"/>
 <circle cx="30" cy="31" r="8" fill="#ff6058"/><circle cx="56" cy="31" r="8" fill="#ffbd2e"/><circle cx="82" cy="31" r="8" fill="#28c840"/>
 <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
@@ -15,13 +15,15 @@
 <text x="40" y="347" font-size="23" fill="#cbd5e1">3D-printed products &amp; custom production</text>
 <text x="40" y="390" font-size="27" font-weight="600" fill="#c4b5fd">SomRatri <tspan fill="#94a3b8" font-size="23">→ somratri.com</tspan></text>
 <text x="40" y="424" font-size="23" fill="#cbd5e1">Curated overnight gatherings</text>
-<line x1="40" y1="451" x2="960" y2="451" stroke="#2b3949"/>
-<text x="40" y="492" font-size="25" fill="#79e2b5">❯ focus</text>
-<text x="40" y="532" font-size="23" fill="#cbd5e1">Rails · AI-assisted development · Agent workflows</text>
-<text x="40" y="565" font-size="23" fill="#cbd5e1">Integrations · Self-hosted infrastructure</text>
-<rect x="25" y="593" width="950" height="111" rx="10" fill="#1e2936"/>
-<text x="40" y="630" font-size="25" fill="#79e2b5">❯ let's talk</text>
-<text x="40" y="667" font-size="24" fill="#f1f5f9">Product idea? Engineering challenge? Say hello.</text>
-<rect x="924" y="647" width="13" height="25" fill="#79e2b5"/>
+<text x="40" y="473" font-size="27" font-weight="600" fill="#e8bc76">NavMantra <tspan fill="#94a3b8" font-size="23">→ navmantra.com</tspan></text>
+<line x1="40" y1="511" x2="960" y2="511" stroke="#2b3949"/>
+<text x="40" y="552" font-size="25" fill="#79e2b5">❯ focus</text>
+<text x="40" y="592" font-size="23" fill="#cbd5e1">Rails · AI-assisted development · Agent workflows</text>
+<text x="40" y="625" font-size="23" fill="#cbd5e1">Integrations · Self-hosted infrastructure</text>
+<rect x="25" y="653" width="950" height="146" rx="10" fill="#1e2936"/>
+<text x="40" y="690" font-size="25" fill="#79e2b5">❯ let's talk</text>
+<text x="40" y="727" font-size="24" fill="#f1f5f9">Product idea? Engineering challenge? Say hello.</text>
+<rect x="924" y="707" width="13" height="25" fill="#79e2b5"/>
+<text x="40" y="768" font-size="24" fill="#7dd3fc">Contact me → navmantra.com</text>
 </g>
 </svg>
