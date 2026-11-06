@@ -1,10 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
-  <title id="title">LaxDee terminal banner</title>
-  <desc id="desc">Engineering leadership, product development and AI.</desc>
-  <rect x="1" y="1" width="1198" height="208" rx="14" fill="#171c1f" stroke="#30383c" stroke-width="2"/>
-  <circle cx="32" cy="28" r="8" fill="#ff6058"/>
-  <circle cx="58" cy="28" r="8" fill="#ffbd2e"/>
-  <circle cx="84" cy="28" r="8" fill="#28c840"/>
-  <text x="36" y="120" fill="#79d9b0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="60" font-weight="600">&gt; laxdee</text>
-  <text x="38" y="171" fill="#91d9bd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="25">Engineering leadership · Product development · AI</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="730" viewBox="0 0 1000 730" role="img" aria-labelledby="title desc">
+<title id="title">Deepak · LaxDee — building products, exploring challenges</title>
+<desc id="desc">Engineering leader with 20 years in industry. Building PrintMe3D and SomRatri. Focused on Rails, AI-assisted development, agent workflows and integrations. Have a product idea or engineering challenge? Let's talk.</desc>
+<rect x="1" y="1" width="998" height="728" rx="18" fill="#141b23" stroke="#334155" stroke-width="2"/>
+<path d="M19 1H981Q999 1 999 19V61H1V19Q1 1 19 1" fill="#1e2936"/>
+<circle cx="30" cy="31" r="8" fill="#ff6058"/><circle cx="56" cy="31" r="8" fill="#ffbd2e"/><circle cx="82" cy="31" r="8" fill="#28c840"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+<text x="130" y="39" font-size="20" fill="#a6b4c5">laxdee@github: ~</text>
+<text x="40" y="111" font-size="25" fill="#79e2b5">❯ whoami</text>
+<text x="40" y="160" font-size="39" font-weight="700" fill="#f1f5f9">Deepak · LaxDee</text>
+<text x="40" y="200" font-size="25" fill="#e8bc76">Engineering leader · 20 years in industry</text>
+<line x1="40" y1="228" x2="960" y2="228" stroke="#2b3949"/>
+<text x="40" y="270" font-size="25" fill="#79e2b5">❯ building --now</text>
+<text x="40" y="313" font-size="27" font-weight="600" fill="#7dd3fc">PrintMe3D <tspan fill="#94a3b8" font-size="23">→ printme3d.in</tspan></text>
+<text x="40" y="347" font-size="23" fill="#cbd5e1">3D-printed products &amp; custom production</text>
+<text x="40" y="390" font-size="27" font-weight="600" fill="#c4b5fd">SomRatri <tspan fill="#94a3b8" font-size="23">→ somratri.com</tspan></text>
+<text x="40" y="424" font-size="23" fill="#cbd5e1">Curated overnight gatherings</text>
+<line x1="40" y1="451" x2="960" y2="451" stroke="#2b3949"/>
+<text x="40" y="492" font-size="25" fill="#79e2b5">❯ focus</text>
+<text x="40" y="532" font-size="23" fill="#cbd5e1">Rails · AI-assisted development · Agent workflows</text>
+<text x="40" y="565" font-size="23" fill="#cbd5e1">Integrations · Self-hosted infrastructure</text>
+<rect x="25" y="593" width="950" height="111" rx="10" fill="#1e2936"/>
+<text x="40" y="630" font-size="25" fill="#79e2b5">❯ let's talk</text>
+<text x="40" y="667" font-size="24" fill="#f1f5f9">Product idea? Engineering challenge? Say hello.</text>
+<rect x="924" y="647" width="13" height="25" fill="#79e2b5"/>
+</g>
 </svg>
